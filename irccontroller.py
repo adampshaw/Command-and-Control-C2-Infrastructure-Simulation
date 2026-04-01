@@ -1,6 +1,4 @@
 #!/usr/bin/env python3
-# Adam Shaw UCID:30204315
-
 import sys
 import socket
 import time
